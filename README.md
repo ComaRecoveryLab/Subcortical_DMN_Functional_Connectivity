@@ -19,7 +19,7 @@ IN NO EVENT SHALL THE AUTHORS, THE CONTRIBUTORS, THE DISTRIBUTORS AND THE MASSAC
 
 ## Publication
 
-* J. Li, W. H. Curley, B. Guerin, D. D. Dougherty, A. V. Dalca, B. Fischl, A. Horn, B. L. Edlow, "Mapping the subcortical connectivity of the human default mode network". [bioRxiv](https://www.biorxiv.org/)
+* J. Li, W. H. Curley, B. Guerin, D. D. Dougherty, A. V. Dalca, B. Fischl, A. Horn, B. L. Edlow, "Mapping the subcortical connectivity of the human default mode network". [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.13.452265)
 
 ## Data Release
 
