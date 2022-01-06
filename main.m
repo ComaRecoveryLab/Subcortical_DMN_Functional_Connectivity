@@ -87,19 +87,8 @@ for m = 1:S
     data(:, :, m) = dataTemp.';
 end
 
-%% greedy CP preprocessing
-clc;
-option = cpGreedy();
-option.optAlg.nonnegative = [0 0 1];
-option.optAlg.cacheMTS = true;
-option.optAlg.useTFOCS = false;
-option.optAlg.maxNumItr = 2000;
-
+% NASCAR
 R = 30;
-[U, lambda, output] = cpGreedy(data, R, option);
-
-%% NASCAR
-data = cpFull(U, lambda);
 
 option = srscpd('opt');
 option.nonnegative = [0 0 1];
